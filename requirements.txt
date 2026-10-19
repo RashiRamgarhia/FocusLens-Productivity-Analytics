@@ -2,3 +2,5 @@ psutil
 pandas
 numpy
 matplotlib
+customtkinter
+pillow 
